@@ -1,0 +1,27 @@
+.c-prev {
+    left: 85% !important;
+  
+}
+.c-next {
+    right: 2% !important;
+    
+}
+.c-prev, .c-next {
+    top: 85%;
+    width: 5%; 
+
+}
+.carousel-indicators {
+  
+    right: 80%;
+    bottom: 85%;
+    display: block;
+   margin-left: 5%;
+  
+}
+.carousel-indicators [data-bs-target] {
+   
+    width: 15px;
+    height: 18px;
+    
+}
